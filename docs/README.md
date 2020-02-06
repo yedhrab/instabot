@@ -40,7 +40,7 @@ If this library solved some of your problems, please consider [buying](https://w
 
 <a href="https://www.buymeacoffee.com/okhlopkov" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-# Terms and conditions
+# s and conditions
 * You will NOT use this API for marketing purposes (spam, botting, harassment, massive bulk messaging...).
 * We do NOT give support to anyone who wants to use this API to send spam or commit other crimes.
 * We reserve the right to block any user of this repository that does not meet these conditions.
