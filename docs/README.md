@@ -1,11 +1,11 @@
-# Instabot
+# 🤖 Instabot
 
 Free Instagram python bot, [private Instagram API emulator](https://github.com/instagrambot/instabot/tree/master/instabot/api) and a [huge amount of ready-to-use example scripts](https://github.com/instagrambot/instabot/tree/master/examples).
 
 We are the most used Instagram library on GitHub (according to "Used by" counter). 🎉 Join our [Large Telegram community](https://t.me/instabotproject) for more Instagram tricks. 🚀
 
 
-### Important
+### ❗ Important
 
 Right now the usage of this library (as probably others too) may harm your Instagram's profile because of new script-detection algorithms. You were warned.
 
@@ -20,15 +20,17 @@ Right now the usage of this library (as probably others too) may harm your Insta
 [![Build Status](https://travis-ci.org/instagrambot/instabot.svg?branch=master)](https://travis-ci.org/instagrambot/instabot)
 [![codecov](https://codecov.io/gh/instagrambot/instabot/branch/master/graph/badge.svg)](https://codecov.io/gh/instagrambot/instabot)
 
-### Installation
+### ⏬ Installation
+
 Install `instabot` with:
+
 ``` bash
 pip install -U instabot
 ```
 
 #### or check [this](https://instagrambot.github.io/docs/en/#installation) for more details.
 
-### Quickstart
+### 🏂 Quickstart
 
 <img src="https://user-images.githubusercontent.com/5613295/62396780-b6441c80-b57c-11e9-89b0-931c159f0cab.png" width="400">
 
@@ -40,10 +42,12 @@ If this library solved some of your problems, please consider [buying](https://w
 
 <a href="https://www.buymeacoffee.com/okhlopkov" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-# s and conditions
+# 👮‍♂️ Terms and conditions
+
 * You will NOT use this API for marketing purposes (spam, botting, harassment, massive bulk messaging...).
 * We do NOT give support to anyone who wants to use this API to send spam or commit other crimes.
 * We reserve the right to block any user of this repository that does not meet these conditions.
 
-# Legal
+# 🔒 Legal
+
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Instagram, Facebook inc. or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use it at your own risk.
